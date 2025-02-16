@@ -1,2 +1,2 @@
 # software-dev-design-pattern-ts
-Software development design patterns implemented as Typescript
+Software Development Design Patterns Implemented in TypeScripts
