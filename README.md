@@ -1,2 +1,7 @@
 # software-dev-design-pattern-ts
-Software Development Design Patterns Implemented in TypeScripts
+타입스크립트로 구현하는 소프트웨어 개발 디자인패턴
+
+# 구성
+- 소프트웨어 개발 디자인패턴을 대분류 / 중분류로 구성
+  - 각 디자인패턴 별 설명을 중분류 / README.md에 작성
+  - 디자인패턴 구현은 중분류 디렉터리 내에 소스코드로 작성
