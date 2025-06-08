@@ -17,23 +17,23 @@
 
 #### 구성요소
 
-- 추상 팩토리 (Abstract Factory)
+- Abstract Factory
 
   - 제품군을 생성하는 인터페이스
 
-- 구체적 팩토리 (Concrete Factory)
+- Concrete Factory
 
   - 특정 제품군을 생성
 
-- 추상 제품 (Abstract Product)
+- Abstract Product
 
   - 생성될 객체의 공통 인터페이스
 
-- 구체적 제품 (Concrete Product)
+- Concrete Product
 
   - 실제 생성되는 객체
 
-- 클라이언트 (Client)
+- Client
 
   - 추상 팩토리를 사용하여 객체를 생성
 
