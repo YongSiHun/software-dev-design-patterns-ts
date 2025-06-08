@@ -1,6 +1,8 @@
-# 의존성 주입 (Dependency Injection)
+# 전략 (Strategy)
 
 #### 문제
+
+- 알고리즘을 동적으로 교체할 필요가 있을 때
 
 #### 개요
 
